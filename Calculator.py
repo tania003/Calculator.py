@@ -1,0 +1,6 @@
+a = int(input("Enter the number:  "))
+b = int(input("Enter the number:  "))
+print("Addition: {} + {} = {}".format(a,b,a+b))
+print("Subtraction: {} - {} = {}".format(a,b,a-b))
+print("Multiplication: {} * {} = {}".format(a,b,a*b))
+print("Division: {} / {} = {}".format(a,b,a/b))
